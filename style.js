@@ -1,0 +1,10 @@
+let a =10;
+console.log(a);
+let name = "Tamil";
+let isbool = true;
+let c;
+let b = null;
+let abc = 9876543210;
+console.log(name); 
+console.log(b);
+console.log(abc);
